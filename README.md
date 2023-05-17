@@ -5,3 +5,10 @@ After moving related resources to subnet subfolder under their associated file, 
 
     terraform plan
     terraform apply --auto-approve
+
+## Modularize webserver
+The same steps as above are followed.
+
+    terraform init
+    terraform plan
+    terraform apply --auto-approve
